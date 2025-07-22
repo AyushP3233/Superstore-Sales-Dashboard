@@ -87,5 +87,5 @@ To deliver an interactive visual tool that:
 
 6. Screenshots / Demos :
    
- Show what the dashboard look like. -  ![Alt text](https://github.com/AyushP3233/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+ Show what the dashboard look like.
  Example : ![Dashboard Preview](https://github.com/AyushP3233/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
