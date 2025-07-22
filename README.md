@@ -86,5 +86,6 @@ To deliver an interactive visual tool that:
 • 🗺️ Regional Marketing – Support decision-making for expansion or localized marketing.
 
 6. Screenshots / Demos :
+   
  Show what the dashboard look like. -  ![Alt text](https://github.com/AyushP3233/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
  Example : ![Dashboard Preview](https://github.com/AyushP3233/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
