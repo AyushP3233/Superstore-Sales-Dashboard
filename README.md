@@ -89,3 +89,6 @@ To deliver an interactive visual tool that:
    
  Show what the dashboard look like.
  Example : ![Dashboard Preview](https://github.com/AyushP3233/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+ 15-Days Forecasting :
+ Example : ![Dashboard Preview]()
+ 
